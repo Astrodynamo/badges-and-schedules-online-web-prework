@@ -12,7 +12,7 @@ end
 
 def assign_rooms (array)
   rooms = []
-  
+  array.each_with_index
 end
 
 def printer
